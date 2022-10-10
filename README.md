@@ -1,6 +1,6 @@
-#Expenses
+<h1> Expenses </h1>
 <p> Expenses is a Full CRUD app that allows the user to keep track of expenses. You can create, save, edit and delete expenses. </p>
-#Technologies:
+Technologies:
 <ul>
   <li>JavaScript</li>
   <li>Express.js</li>
