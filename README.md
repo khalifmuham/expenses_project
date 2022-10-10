@@ -3,13 +3,13 @@
 Technologies:
 <ul>
   <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
   <li>Express.js</li>
   <li>React.js</li>
   <li>MongoDB </li>
   <li>NodeJS </li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
   <li>Postman</li>
 </ul>
 
