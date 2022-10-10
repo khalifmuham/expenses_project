@@ -1,0 +1,49 @@
+.App{
+  background-color: silver;
+  height: 1000px;
+}
+.App {
+  text-align: center;
+}
+
+.title{
+  color: rgb(23, 138, 38);
+  font-family:cursive;
+  font-size: 70px;
+}
+
+.navclick:hover{
+  background-color: rgba(139, 135, 135, 0.178);
+}
+.nav_title{
+  font-size: 18px;
+  font-family:cursive ;
+}
+
+.form_title{
+  font-size: 25px;
+  font-family:cursive ;
+}
+
+.view_create{
+  background-color: rgb(19, 18, 18);
+}
+
+.view_detail{
+  /* background-color: rgb(19, 18, 18); */
+  height: 400px;
+  color: black;
+  font-size: 25px;
+  font-family:cursive ;
+}
+
+.view_c{
+  padding-top: 35px;
+}
+
+.page{
+  color: white;
+  padding-right: 600px;
+  font-size: 30px;
+  font-family:cursive ;
+} 
